@@ -1,1 +1,1 @@
-# JupyterNotebook for learning Machine Learning Models
+ Jupyter Notebook for linear regression machine learning Model
