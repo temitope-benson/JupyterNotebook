@@ -1,1 +1,1 @@
- # Jupyter Notebook for some machine learning Models
+ # Jupyter Notebook of my machine learning Models
